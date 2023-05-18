@@ -1,0 +1,13 @@
+{
+  "appName": "adguard",
+  "userGivenName": "adguard",
+  "destNamespace": "adguard",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": ".",
+  "srcRepoURL": "https://github.com/its0x11/adguard.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null,
+  "exclude": "",
+  "include": ""
+}
