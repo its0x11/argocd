@@ -26,6 +26,5 @@ patches:
       kind: ConfigMap
       version: v1
       name: argocd-cmd-params-cm 
-      namespace: argocd     
-    patch:
-      path: patches/insecure-ingress.yaml
+      namespace: argocd
+    path: patches/insecure-ingress.yaml
