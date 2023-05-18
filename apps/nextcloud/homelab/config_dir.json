@@ -1,0 +1,13 @@
+{
+  "appName": "nextcloud",
+  "userGivenName": "nextcloud",
+  "destNamespace": "nextcloud",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": ".",
+  "srcRepoURL": "https://github.com/its0x11/nextcloud.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null,
+  "exclude": "",
+  "include": ""
+}
