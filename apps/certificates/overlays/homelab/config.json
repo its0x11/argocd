@@ -1,0 +1,11 @@
+{
+  "appName": "certificates",
+  "userGivenName": "certificates",
+  "destNamespace": "certificates",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/certificates/overlays/homelab",
+  "srcRepoURL": "https://github.com/its0x11/argocd.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
