@@ -1,0 +1,13 @@
+{
+  "appName": "home-assistant",
+  "userGivenName": "home-assistant",
+  "destNamespace": "homeassistant",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": ".",
+  "srcRepoURL": "https://github.com/its0x11/homeassistant.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null,
+  "exclude": "",
+  "include": ""
+}
